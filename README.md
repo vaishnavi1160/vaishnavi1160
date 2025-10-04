@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Vaishnavi khaire</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi1160&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi1160" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi1160" alt="vaishnavi1160" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vaishnavik143" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavik143?logo=twitter&style=for-the-badge" alt="vaishnavik143" /></a> </p>
 
 - 🌱 I’m currently learning **DSA IN JAVA**
 
