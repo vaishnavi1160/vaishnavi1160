@@ -1,9 +1,41 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi khaire</h1>
 <p align="left"> <a href="https://twitter.com/vaishnavik143" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavik143?logo=twitter&style=for-the-badge" alt="vaishnavik143" /></a> </p>
 
-- 🌱 I’m currently learning **DSA IN JAVA**
+💻 I develop web applications  
+🌱 I’m currently learning **DSA IN JAVA**  
+🚀 Always exploring new technologies  
 
-- 📫 How to reach me **khairevaishnavi111@gnail.com**
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-khaire-0855522a0)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:khairevaishnavi111@gmail.com)
+
+---
+
+## 🧰 Tech Stack:
+
+### 💻 Programming & Web
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviKhaire&show_icons=true&theme=radical)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
