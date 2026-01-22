@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Khaire</h1>
-<h3 align="center">Aspiring Java Developer | DSA Learner | Web Enthusiast</h3>
+<h3 align="center">Aspiring Java Developer | Backend & Web Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/vaishnavik143" target="_blank">
@@ -12,7 +12,7 @@
 ## 💡 About Me
 
 💻 I develop web applications
-🌱 Currently learning **DSA in Java**
+☕ Strong interest in **Java backend development**
 🚀 Always exploring new technologies and frameworks
 
 ---
@@ -61,19 +61,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vaishnavi1160&theme=dark&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=vaishnavi1160&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vaishnavi1160&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi1160&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -102,4 +101,4 @@
 
 ---
 
-✨ *“Consistency beats talent when talent doesn’t practice.”* ✨
+✨ *“Code. Learn. Improve. Repeat.”* ✨
