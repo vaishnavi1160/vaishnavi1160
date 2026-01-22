@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VaishnaviKhaire&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi1160&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=VaishnaviKhaire&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=vaishnavi1160&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviKhaire&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi1160&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VaishnaviKhaire&theme=darkhub&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi1160&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
