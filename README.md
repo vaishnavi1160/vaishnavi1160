@@ -11,8 +11,8 @@
 
 ## 💡 About Me
 
-💻 I develop web applications
-☕ Strong interest in **Java backend development**
+💻 I develop web applications  
+☕ Strong interest in **Java backend development**  
 🚀 Always exploring new technologies and frameworks
 
 ---
@@ -43,21 +43,21 @@
 
 ### 💻 Programming & Web
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### ⚙️ Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge\&logo=spring)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
