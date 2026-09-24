@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Khaire</h1>
-<h3 align="center">Aspiring Java Developer | Backend & Web Enthusiast</h3>
+<h3 align="center">Aspiring Java Developer | Web Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/vaishnavik143" target="_blank">
